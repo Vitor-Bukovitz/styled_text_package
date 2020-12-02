@@ -430,7 +430,7 @@ class _StyledTextState extends State<StyledText> {
         autofocus: widget._autofocus,
         toolbarOptions: widget._toolbarOptions,
         cursorWidth: widget._cursorWidth,
-        cursorHeight: widget._cursorHeight,
+        //cursorHeight: widget._cursorHeight,
         cursorRadius: widget._cursorRadius,
         cursorColor: widget._cursorColor,
         dragStartBehavior: widget._dragStartBehavior,
